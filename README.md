@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adama Sylla
 - 👀 I’m interested in software engeneering 
-- 🌱 I’m currently learning oython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 3463832553
 
